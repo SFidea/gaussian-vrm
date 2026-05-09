@@ -72,11 +72,11 @@ renderer.setAnimationLoop(() => {
 
 ### Embed in Your Website
 
-<img src="https://i.gyazo.com/250c99bd3bed7f30e3ca2ab064da88cc.png" width="400px">
+<img src="https://i.gyazo.com/250c99bd3bed7f30e3ca2ab064da88cc.png" width="640px">
 
 ### Playable Avatar
 
-<img src="https://i.gyazo.com/ec1ba83eb39d6ecf08605feaa880c1fd.png" width="400px">
+<img src="https://i.gyazo.com/ec1ba83eb39d6ecf08605feaa880c1fd.png" width="640px">
 
 ### Webcam control / Splat Effects
 
@@ -89,7 +89,7 @@ Six sample avatars and original scan data are available on Google Drive:
 These avatars are released under the **MIT License**,
 **as long as they are not used in ways that violate public order or morality.**
 
-<img width="300" height="876" alt="samples" src="https://i.gyazo.com/9df98a958283f7d5bcc539d61e6dfab4.png" />
+<img width="640" alt="samples" src="https://i.gyazo.com/9df98a958283f7d5bcc539d61e6dfab4.png" />
 
 ## Extra Animation Files
 
